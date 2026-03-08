@@ -39,8 +39,7 @@ Las herramientas utilizadas en este proyecto incluyen:
 telcom-analisis-1
 │
 ├── README.md
-├── telcom_churn_analysis.ipynb
-└── dataset.csv
+├── challegenge TelecomX_LATAM (1).ipynb
 ```
 
 - **telcom_churn_analysis.ipynb** → Notebook con todo el proceso de análisis.
